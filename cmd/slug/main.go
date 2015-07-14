@@ -8,7 +8,7 @@ import (
 	"os/user"
 
 	"code.google.com/p/go-netrc/netrc"
-	"github.com/naaman/slug"
+	"github.com/bbhoss/slug"
 )
 
 var (
